@@ -7,7 +7,7 @@ function MakeScriptHub()
     local Window = OrionLib:MakeWindow({Name = "Kropka Fucker", HidePremium = false, SaveConfig = true, IntroEnable = true, Introtext = "Script Hub"})
 end
 local Tab = Window:MakeTab({
-	Name = "TradeScam",
+	Name = "Trade Scam",
 	Icon = "rbxassetid://4483345998",
 		PremiumOnly = false
 })
@@ -64,7 +64,7 @@ Tab:AddButton({
 
 
 local Tab = Window:MakeTab({
-	Name = "Partner script",
+	Name = "Partner Script",
 	Icon = "rbxassetid://4483345998",
 		PremiumOnly = false
 })
@@ -72,7 +72,7 @@ local Tab = Window:MakeTab({
 Tab:AddButton({
     Name = "Visual sign pets (for tiktok live scam or smth).",
     Callback = function()
-    	loadstring(game:HttpGet("https://pastebin.com/raw/iGSanVe0", true))()
+    	loadstring(game:HttpGet("https://pastebin.com/raw/UkUj6evx", true))()
 
       end
 })
